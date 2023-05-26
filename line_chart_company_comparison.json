@@ -1,0 +1,47 @@
+{
+    "module_type": "line_chart",
+    "template": "company_comparison", // the name can be changed to an acronym like CC
+    "company_name_1": "Tesla",
+    "company_name_2": "Ford",
+    "chart": {
+        "values_line_1": [
+            18.40965911934335,
+            17.337364563284382,
+            18.22828178074068,
+            18.201090251364253,
+            18.40965911934335,
+            17.337364563284382,
+            18.22828178074068,
+            18.201090251364253,
+            18.40965911934335,
+            17.337364563284382,
+            18.22828178074068,
+            18.201090251364253
+        ],
+        "percentage_change_1": [ // The percentage change of the values in the period
+            1.07
+        ],
+        "values_line_2": [
+            18.40965911934335,
+            17.337364563284382,
+            18.22828178074068,
+            18.201090251364253,
+            18.40965911934335,
+            17.337364563284382,
+            18.22828178074068,
+            18.201090251364253,
+            18.40965911934335,
+            17.337364563284382,
+            18.22828178074068,
+            18.201090251364253
+        ],
+        "percentage_change_2": [
+            -3.5
+        ],
+        "start": "Apr 08, 22", // The short form for the month name
+        "end": "Apr 08, 23"
+    },
+    "prefix": "$", // optional
+    "text": "text placeholder",
+    "disclaimer": "placeholder" //optional
+}

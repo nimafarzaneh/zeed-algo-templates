@@ -1,0 +1,25 @@
+{
+    "module_type": "size_comparison",
+    "template": "cube",
+    "chart": [ // from 2 to 3 elements
+        {
+            "label": "Apple",
+            "value": "6.62",
+            "icon_url": "https://icons.com/Apple.png" // the link to the icon image , optional (either present for all companies or for none)
+        },
+        {
+            "label": "Microsoft",
+            "value": "5.59",
+            "icon_url": "https://icons.com/microsoft.png"
+        },
+        {
+            "label": "Amazon",
+            "value": "2.51",
+            "icon_url": "https://icons.com/Amazon.png"
+        }
+    ],
+    "prefix": "",
+    "suffix": "%",
+    "text": "text placeholder",
+    "disclaimer": "placeholder" //optional
+}

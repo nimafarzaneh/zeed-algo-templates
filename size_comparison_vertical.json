@@ -1,0 +1,35 @@
+{
+    "module_type": "size_comparison",
+    "template": "vertical",
+    "chart": [ // from 2 to 5 elements
+        {
+            "label": "Tesla",
+            "value": "552.07",
+            "icon_url": "https://icons.com/Tesla.png" // the link to the icon image , optional (either present for all companies or for none)
+        },
+        {
+            "label": "General Motors",
+            "value": "49.65",
+            "icon_url": "https://icons.com/GM.png"
+        },
+        {
+            "label": "Fords",
+            "value": "47.56",
+            "icon_url": "https://icons.com/Ford.png"
+        },
+        {
+            "label": "Volkswagen",
+            "value": "73.67",
+            "icon_url": "https://icons.com/Volkswagen.png"
+        },
+        {
+            "label": "BYD",
+            "value": "715.28B",
+            "icon_url": "https://icons.com/BYD.png"
+        }
+    ],
+    "prefix": "$", //optional
+    "suffix": "B", //optional
+    "text": "text placeholder",
+    "disclaimer": "placeholder" //optional
+}

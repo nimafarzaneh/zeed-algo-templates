@@ -1,0 +1,26 @@
+{
+    "module_type": "horizontal_bar",
+    "template": "buy_hold_sell",
+    "chart": [ // from 2 to 5 elements
+        {
+            "label": "Tesla",
+            "buy": "20",
+            "hold": "6",
+            "sell": "3"
+        },
+        {
+            "label": "General Motors",
+            "buy": "24",
+            "hold": "6",
+            "sell": "1"
+        },
+        {
+            "label": "Ford",
+            "buy": "36",
+            "hold": "1",
+            "sell": "0"
+        }
+    ],
+    "text": "text placeholder",
+    "disclaimer": "placeholder" //optional
+}

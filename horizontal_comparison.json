@@ -1,0 +1,26 @@
+{
+    "module_type": "horizontal_bar",
+    "template": "comparison",
+    "chart": [ // from 2 to 5 elements
+        {
+            "label": "Tesla",
+            "value": "31.6",
+            "icon_url": "https://icons.com/Tesla.png" // the link to the icon image , optional (either present for all companies or for none)
+        },
+        {
+            "label": "General Motors",
+            "value": "7.4",
+            "icon_url": "https://icons.com/GM.png"
+        },
+        {
+            "label": "Ford",
+            "value": "10.7",
+            "icon_url": "https://icons.com/Ford.png"
+        }
+    ],
+    "prefix": "", //optional 
+    "suffix": "x", //optional 
+    "text": "Price/Book multiple for national commerical banks similar to PacWest Bancorp.",
+    "average": "0.96",
+    "disclaimer": "placeholder" //optional
+}
